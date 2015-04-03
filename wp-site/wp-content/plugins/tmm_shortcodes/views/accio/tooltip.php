@@ -1,0 +1,2 @@
+<?php if (!defined('ABSPATH')) die('No direct access allowed'); ?>
+<a href="<?php echo $link ?>" target="<?php echo $link_target ?>" <?php if (!empty($tooltip)): ?> class="tooltip" title="<?php echo $tooltip ?>" <?php endif; ?>><?php echo $content ?></a>

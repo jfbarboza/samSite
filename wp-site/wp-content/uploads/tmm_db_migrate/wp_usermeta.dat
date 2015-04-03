@@ -1,0 +1,358 @@
+array (
+  0 => 
+  array (
+    'umeta_id' => '1',
+    'user_id' => '1',
+    'meta_key' => 'first_name',
+    'meta_value' => '',
+  ),
+  1 => 
+  array (
+    'umeta_id' => '2',
+    'user_id' => '1',
+    'meta_key' => 'last_name',
+    'meta_value' => '',
+  ),
+  2 => 
+  array (
+    'umeta_id' => '3',
+    'user_id' => '1',
+    'meta_key' => 'nickname',
+    'meta_value' => 'demo',
+  ),
+  3 => 
+  array (
+    'umeta_id' => '4',
+    'user_id' => '1',
+    'meta_key' => 'description',
+    'meta_value' => '',
+  ),
+  4 => 
+  array (
+    'umeta_id' => '5',
+    'user_id' => '1',
+    'meta_key' => 'rich_editing',
+    'meta_value' => 'true',
+  ),
+  5 => 
+  array (
+    'umeta_id' => '6',
+    'user_id' => '1',
+    'meta_key' => 'comment_shortcuts',
+    'meta_value' => 'false',
+  ),
+  6 => 
+  array (
+    'umeta_id' => '7',
+    'user_id' => '1',
+    'meta_key' => 'admin_color',
+    'meta_value' => 'fresh',
+  ),
+  7 => 
+  array (
+    'umeta_id' => '8',
+    'user_id' => '1',
+    'meta_key' => 'use_ssl',
+    'meta_value' => '0',
+  ),
+  8 => 
+  array (
+    'umeta_id' => '9',
+    'user_id' => '1',
+    'meta_key' => 'show_admin_bar_front',
+    'meta_value' => 'true',
+  ),
+  9 => 
+  array (
+    'umeta_id' => '10',
+    'user_id' => '1',
+    'meta_key' => '__tmm_wpdb_prefix__capabilities',
+    'meta_value' => 
+    array (
+      'administrator' => true,
+    ),
+  ),
+  10 => 
+  array (
+    'umeta_id' => '11',
+    'user_id' => '1',
+    'meta_key' => '__tmm_wpdb_prefix__user_level',
+    'meta_value' => '10',
+  ),
+  11 => 
+  array (
+    'umeta_id' => '12',
+    'user_id' => '1',
+    'meta_key' => 'dismissed_wp_pointers',
+    'meta_value' => 'wp330_toolbar,wp330_saving_widgets,wp340_choose_image_from_library,wp340_customize_current_theme_link,wp350_media,wp360_revisions,wp360_locks',
+  ),
+  12 => 
+  array (
+    'umeta_id' => '13',
+    'user_id' => '1',
+    'meta_key' => 'show_welcome_panel',
+    'meta_value' => '1',
+  ),
+  13 => 
+  array (
+    'umeta_id' => '14',
+    'user_id' => '1',
+    'meta_key' => '__tmm_wpdb_prefix__user-settings',
+    'meta_value' => 'hidetb=1&libraryContent=browse&editor=tinymce&imgsize=full',
+  ),
+  14 => 
+  array (
+    'umeta_id' => '15',
+    'user_id' => '1',
+    'meta_key' => '__tmm_wpdb_prefix__user-settings-time',
+    'meta_value' => '1392982422',
+  ),
+  15 => 
+  array (
+    'umeta_id' => '16',
+    'user_id' => '1',
+    'meta_key' => '__tmm_wpdb_prefix__dashboard_quick_press_last_post_id',
+    'meta_value' => '490',
+  ),
+  16 => 
+  array (
+    'umeta_id' => '17',
+    'user_id' => '1',
+    'meta_key' => 'closedpostboxes_page',
+    'meta_value' => 
+    array (
+    ),
+  ),
+  17 => 
+  array (
+    'umeta_id' => '18',
+    'user_id' => '1',
+    'meta_key' => 'metaboxhidden_page',
+    'meta_value' => 
+    array (
+      0 => 'postcustom',
+      1 => 'commentstatusdiv',
+      2 => 'commentsdiv',
+      3 => 'slugdiv',
+      4 => 'authordiv',
+    ),
+  ),
+  18 => 
+  array (
+    'umeta_id' => '19',
+    'user_id' => '1',
+    'meta_key' => 'layerslider_help___tmm_wpdb_prefix__pointer',
+    'meta_value' => '1',
+  ),
+  19 => 
+  array (
+    'umeta_id' => '20',
+    'user_id' => '1',
+    'meta_key' => 'nav_menu_recently_edited',
+    'meta_value' => '2',
+  ),
+  20 => 
+  array (
+    'umeta_id' => '21',
+    'user_id' => '1',
+    'meta_key' => 'managenav-menuscolumnshidden',
+    'meta_value' => 
+    array (
+      0 => 'link-target',
+      1 => 'css-classes',
+      2 => 'xfn',
+      3 => 'description',
+    ),
+  ),
+  21 => 
+  array (
+    'umeta_id' => '22',
+    'user_id' => '1',
+    'meta_key' => 'metaboxhidden_nav-menus',
+    'meta_value' => 
+    array (
+      0 => 'add-post',
+      1 => 'add-folio',
+      2 => 'add-onepage',
+      3 => 'add-post_tag',
+    ),
+  ),
+  22 => 
+  array (
+    'umeta_id' => '23',
+    'user_id' => '1',
+    'meta_key' => 'meta-box-order_page',
+    'meta_value' => 
+    array (
+      'side' => 'submitdiv,pageparentdiv,tmm_slider_meta_box,tmm_page_bg,credits_meta_onepage,postimagediv',
+      'normal' => 'postcustom,tmm_layout_constructor,commentstatusdiv,commentsdiv,slugdiv,authordiv,seo_options,revisionsdiv',
+      'advanced' => '',
+    ),
+  ),
+  23 => 
+  array (
+    'umeta_id' => '24',
+    'user_id' => '1',
+    'meta_key' => 'screen_layout_page',
+    'meta_value' => '2',
+  ),
+  24 => 
+  array (
+    'umeta_id' => '25',
+    'user_id' => '1',
+    'meta_key' => 'closedpostboxes_dashboard',
+    'meta_value' => 
+    array (
+      0 => 'dashboard_activity',
+      1 => 'dashboard_primary',
+    ),
+  ),
+  25 => 
+  array (
+    'umeta_id' => '26',
+    'user_id' => '1',
+    'meta_key' => 'metaboxhidden_dashboard',
+    'meta_value' => 
+    array (
+    ),
+  ),
+  26 => 
+  array (
+    'umeta_id' => '27',
+    'user_id' => '1',
+    'meta_key' => 'closedpostboxes_post',
+    'meta_value' => 
+    array (
+    ),
+  ),
+  27 => 
+  array (
+    'umeta_id' => '28',
+    'user_id' => '1',
+    'meta_key' => 'metaboxhidden_post',
+    'meta_value' => 
+    array (
+      0 => 'trackbacksdiv',
+      1 => 'postcustom',
+      2 => 'commentstatusdiv',
+      3 => 'slugdiv',
+      4 => 'authordiv',
+    ),
+  ),
+  28 => 
+  array (
+    'umeta_id' => '29',
+    'user_id' => '1',
+    'meta_key' => 'meta-box-order_staff-page',
+    'meta_value' => 
+    array (
+      'side' => 'submitdiv,positiondiv,postimagediv',
+      'normal' => 'postexcerpt,slugdiv,credits_meta',
+      'advanced' => '',
+    ),
+  ),
+  29 => 
+  array (
+    'umeta_id' => '30',
+    'user_id' => '1',
+    'meta_key' => 'screen_layout_staff-page',
+    'meta_value' => '2',
+  ),
+  30 => 
+  array (
+    'umeta_id' => '31',
+    'user_id' => '1',
+    'meta_key' => 'meta-box-order_folio',
+    'meta_value' => 
+    array (
+      'side' => 'submitdiv,tagsdiv-post_tag,clientsdiv,skillsdiv,folio_categorydiv,folio_single_tpl,postimagediv',
+      'normal' => 'tmm_layout_constructor,postexcerpt,commentstatusdiv,commentsdiv,slugdiv,credits_meta,folio_gallery_meta,seo_options',
+      'advanced' => '',
+    ),
+  ),
+  31 => 
+  array (
+    'umeta_id' => '32',
+    'user_id' => '1',
+    'meta_key' => 'screen_layout_folio',
+    'meta_value' => '2',
+  ),
+  32 => 
+  array (
+    'umeta_id' => '33',
+    'user_id' => '1',
+    'meta_key' => 'closedpostboxes_slidergroup',
+    'meta_value' => 
+    array (
+    ),
+  ),
+  33 => 
+  array (
+    'umeta_id' => '34',
+    'user_id' => '1',
+    'meta_key' => 'metaboxhidden_slidergroup',
+    'meta_value' => 
+    array (
+      0 => 'slugdiv',
+    ),
+  ),
+  34 => 
+  array (
+    'umeta_id' => '35',
+    'user_id' => '1',
+    'meta_key' => 'meta-box-order_onepage',
+    'meta_value' => 
+    array (
+      'side' => 'submitdiv,op_typediv',
+      'normal' => 'credits_meta_pages,postexcerpt,slugdiv,credits_meta_attrs',
+      'advanced' => '',
+    ),
+  ),
+  35 => 
+  array (
+    'umeta_id' => '36',
+    'user_id' => '1',
+    'meta_key' => 'screen_layout_onepage',
+    'meta_value' => '2',
+  ),
+  36 => 
+  array (
+    'umeta_id' => '37',
+    'user_id' => '1',
+    'meta_key' => 'closedpostboxes_folio',
+    'meta_value' => 
+    array (
+      0 => 'clientsdiv',
+      1 => 'postexcerpt',
+    ),
+  ),
+  37 => 
+  array (
+    'umeta_id' => '38',
+    'user_id' => '1',
+    'meta_key' => 'metaboxhidden_folio',
+    'meta_value' => 
+    array (
+      0 => 'slugdiv',
+    ),
+  ),
+  38 => 
+  array (
+    'umeta_id' => '39',
+    'user_id' => '1',
+    'meta_key' => 'closedpostboxes_onepage',
+    'meta_value' => 
+    array (
+    ),
+  ),
+  39 => 
+  array (
+    'umeta_id' => '40',
+    'user_id' => '1',
+    'meta_key' => 'metaboxhidden_onepage',
+    'meta_value' => 
+    array (
+      0 => 'slugdiv',
+    ),
+  ),
+)

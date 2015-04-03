@@ -1,0 +1,1929 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_styling/custom_html/skin_composer.php:44
+msgid "#ffffff"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:792
+msgid "%s Search Results for: <i>%s</i>"
+msgstr ""
+
+#. Text in function
+#: accio/loop/loop-category.php:18
+#: accio/loop/loop-index.php:77
+#: accio/loop/loop-index.php:184
+#: accio/loop/loop-taxonomy-skills.php:20
+#: accio/loop/loop-archive.php:20
+#: accio/single.php:141
+#: accio/loop/loop-taxonomy-clients.php:18
+#: accio/loop/loop-tag.php:18
+#: accio/loop/loop-search.php:22
+#: accio/content-default.php:79
+#: accio/content-default.php:186
+msgid ", "
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/gallery/metabox.php:9
+msgid "2 columns"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/gallery/metabox.php:9
+msgid "3 columns"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/gallery/metabox.php:9
+msgid "4 columns"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "<div class=\"error\"><p>To make your theme work correctly you need to install ThemeMakers Layout Constructor. Check in your theme bundle.</p></div>"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "<div class=\"error\"><p>To make your theme work correctly you need to install ThemeMakers Shortcodes Plugin. Check in your theme bundle.</p></div>"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "<div class=\"error\"><p>To make your theme work correctly you need to set the permissions 777 for <b>%s/css/custom1.css</b> folder. Follow <a href=\"http://webtemplatemasters.com/tutorials/permissions/\" target=\"_blank\">the link</a> to read the instructions how to do it properly.</p></div>"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "<div class=\"error\"><p>To make your theme work correctly you need to set the permissions 777 for <b>%s/css/custom2.css</b> folder. Follow <a href=\"http://webtemplatemasters.com/tutorials/permissions/\" target=\"_blank\">the link</a> to read the instructions how to do it properly.</p></div>"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:84
+msgid "Accio"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_custom_sidebars/custom_html/sidebar.php:56
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_group.php:31
+msgid "Add Category"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/post_pod_type_panel.php:117
+msgid "Add Images"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+#: accio/classes/portfolio.php:2
+msgid "Add New"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Add New Category"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Add New Client"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:6
+msgid "Add New Form"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "Add New OnePage"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Add New Portfolio"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Add New Skill"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "Add New Type"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_custom_sidebars/custom_html/sidebar.php:14
+msgid "Add Page"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_groups.php:7
+msgid "Add SEO Group"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_custom_sidebars/custom_html/sidebars.php:7
+msgid "Add Sidebar"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/portfolio/gallery_meta.php:8
+#: accio/admin/views/gallery/metabox.php:23
+msgid "Add images"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta.php:4
+msgid "Add slides"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/portfolio/gallery_meta.php:9
+msgid "Add video"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:141
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:174
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:244
+msgid "Additional Options"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/contact_us_form.php:8
+#: accio/admin/views/widgets/google_map_form.php:87
+#: accio/admin/views/widgets/google_map_form.php:47
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/widgets/recent_posts_form.php:62
+#: accio/helper/helper.php:1
+msgid "All Categories"
+msgstr ""
+
+#. Text in echo
+#: accio/single-folio-default.php:46
+#: accio/single-folio-fullwidth.php:46
+#: accio/single-folio-alt.php:44
+msgid "All Projects"
+msgstr ""
+
+#. Text in echo
+#: accio/classes/portfolio.php:199
+msgid "Alternate"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:15
+msgid "Another page description"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:7
+msgid "Another page title"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:222
+msgid "Any"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/gallery/render_gallery_item.php:44
+msgid "Apply Changes"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "April"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "August"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:823
+msgid "Author Archive: %s"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:12
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:55
+msgid "Back to forms list"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_group.php:6
+msgid "Back to groups list"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_custom_sidebars/custom_html/sidebar.php:5
+msgid "Back to sidebars list"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/onepage/credits_meta.php:8
+msgid "Background Video"
+msgstr ""
+
+#. Text in echo
+#: accio/helper/helper.php:343
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/facebook_form.php:15
+msgid "Box height"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/post_pod_type_panel.php:57
+#: accio/admin/theme_options/helper.php:185
+msgid "Browse"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:75
+msgid "Button color"
+msgstr ""
+
+#. Text in echo
+#: accio/classes/custom_sidebars.php:149
+msgid "Calendar"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:84
+msgid "Can be applied for text logo only. Can not be used on One-Page page types"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:452
+#: accio/admin/views/gallery/render_gallery_item.php:44
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "Cancel reply"
+msgstr ""
+
+#. Text in echo
+#: accio/classes/custom_sidebars.php:143
+#: accio/classes/portfolio.php:2
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:817
+msgid "Category: %s"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:113
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:148
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:217
+msgid "Choose Field Type"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:88
+msgid "Choose slider group"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:41
+msgid "Click here"
+msgstr ""
+
+#. Text in echo
+#: accio/single-folio-default.php:114
+#: accio/classes/portfolio.php:2
+#: accio/single-folio-fullwidth.php:119
+#: accio/single-folio-alt.php:125
+msgid "Client"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Clients"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/page/background_options.php:43
+msgid "Color"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_styling/custom_html/skin_composer.php:44
+msgid "Color Mark"
+msgstr ""
+
+#. Text in echo
+#: accio/loop/loop-category.php:24
+#: accio/loop/loop-index.php:88
+#: accio/loop/loop-index.php:195
+#: accio/loop/loop-taxonomy-skills.php:26
+#: accio/loop/loop-archive.php:26
+#: accio/single.php:152
+#: accio/loop/loop-taxonomy-clients.php:24
+#: accio/comments.php:13
+#: accio/loop/loop-tag.php:24
+#: accio/admin/views/widgets/recent_posts.php:36
+#: accio/loop/loop-search.php:28
+#: accio/content-default.php:90
+#: accio/content-default.php:197
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/widgets/google_map_form.php:87
+msgid "Coordinates"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_posts_form.php:29
+msgid "Count"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_styling/custom_html/skin_composer.php:5
+msgid "Create a new skin"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/post_pod_type_panel.php:92
+msgid "Create a quote for this post"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_styling/custom_html/skin_composer.php:10
+msgid "Create new skin"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/post_pod_type_panel.php:112
+msgid "Create your gallery for post"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_custom_sidebars/custom_html/sidebars.php:19
+msgid "Custom Sidebars"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:85
+msgid "Cuteslider's groups"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:871
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:856
+msgid "Daily Portfolio Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: accio/single-folio-default.php:106
+#: accio/single-folio-fullwidth.php:111
+#: accio/single-folio-alt.php:117
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "December"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/page/background_options.php:43
+#: accio/classes/portfolio.php:197
+msgid "Default"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:451
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:24
+#: accio/admin/theme_options/sections/tab_styling/custom_html/skin_composer.php:61
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_groups.php:27
+#: accio/admin/theme_options/sections/tab_custom_sidebars/custom_html/sidebars.php:28
+msgid "Delete"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/gallery/render_gallery_item.php:9
+#: accio/admin/views/portfolio/render_gallery_item.php:11
+#: accio/admin/views/page/draw_post_podtype_gallery_image.php:4
+msgid "Delete Item"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_slide_item.php:19
+msgid "Delete Slide"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/gallery/render_gallery_item.php:42
+msgid "Description"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/seo_options.php:31
+msgid "Description - about 150-200 characters"
+msgstr ""
+
+#. Text in echo
+#: accio/footer.php:92
+msgid "Developed by"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_posts_form.php:69
+msgid "Display \"See all Posts\" button"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_posts_form.php:52
+msgid "Display Excerpt"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:109
+msgid "Display Marker"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_posts_form.php:41
+msgid "Display Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_projects_form.php:56
+msgid "Display Title"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:120
+msgid "Display popup"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:131
+msgid "Display scrollwheel"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/staff/credits_meta.php:47
+msgid "Dribbble"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:47
+msgid "Dribbble Link"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:52
+msgid "Dribbble Tooltip"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:450
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:25
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_groups.php:28
+#: accio/admin/theme_options/sections/tab_custom_sidebars/custom_html/sidebars.php:29
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Edit Category"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Edit Client"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_slide_item.php:16
+msgid "Edit Image"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "Edit OnePage"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Edit Portfolio"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Edit Skill"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "Edit Type"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/gallery/render_gallery_item.php:8
+msgid "Edit item title and description"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/contact_us_form.php:18
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:31
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:76
+msgid "Enable Captcha"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_posts_form.php:57
+msgid "Excerpt symbols count"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_projects_form.php:60
+msgid "Exerpt Symbols Count"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/staff/credits_meta.php:23
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:27
+msgid "Facebook Link"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/facebook_form.php:7
+msgid "Facebook Page ID"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:32
+msgid "Facebook Tooltip"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "February"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:113
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:148
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:217
+msgid "Field Label"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/flickr_form.php:8
+msgid "Flickr Username"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Folio images"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:844
+msgid "Folios by Clients: %s"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:840
+msgid "Folios by Skills: %s"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/portfolio/credits_meta.php:20
+msgid "For example"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/contact_form_form.php:8
+msgid "Form"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "Friday"
+msgstr ""
+
+#. Text in echo
+#: accio/classes/portfolio.php:198
+msgid "Full Width"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/gallery/metabox.php:7
+msgid "Gallery Layout:"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/theme_options.php:74
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_styling/custom_html/body_pattern_selected.php:69
+msgid "General website background color behind your pattern image. Do not edit this field to use default theme styling."
+msgstr ""
+
+#. Text in function
+#: accio/404.php:22
+msgid "Get Me Back to Homepage"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:57
+msgid "Google Plus Link"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:62
+msgid "Google Plus Tooltip"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/widgets/google_map_form.php:87
+msgid "HYBRID"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/facebook_form.php:27
+msgid "Header"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:14
+msgid "Height"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:223
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/page/background_options.php:43
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:14
+#: accio/admin/views/widgets/google_map_form.php:87
+msgid "Image"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/staff/credits_meta.php:59
+msgid "Instagram"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:67
+msgid "Instagram Link"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:72
+msgid "Instagram Tooltip"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "January"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "July"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "June"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/seo_options.php:20
+msgid "Keywords - up to 250 characters"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:35
+msgid "Latitude"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:56
+msgid "Layerslider's groups"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_projects_form.php:15
+msgid "Layout Style"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/widgets/recent_projects_form.php:17
+msgid "Layout Style 1"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/widgets/recent_projects_form.php:17
+msgid "Layout Style 2"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "Leave a Comment"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:115
+#: accio/admin/theme_options/sections/tab_general/custom_html/sidebar_position.php:7
+msgid "Left Sidebar"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/staff/credits_meta.php:35
+msgid "LinkedIn"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:37
+msgid "Linkedin Link"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:42
+msgid "Linkedin Tooltip"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_styling/custom_html/skin_composer.php:57
+msgid "Load"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_styling/custom_html/skin_composer.php:21
+msgid "Load Skin From"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:454
+msgid "Loading"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:19
+msgid "Location Mode"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:84
+msgid "Logo Font Family"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:84
+msgid "Logo Font Size"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:84
+msgid "Logo Name"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:84
+msgid "Logo Text Color"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:40
+msgid "Longitude"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/widgets/google_map_form.php:87
+msgid "Map"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:85
+msgid "Map type"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "March"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "May"
+msgstr ""
+
+#. Text in echo
+#: accio/classes/custom_sidebars.php:154
+msgid "Meta"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_group.php:22
+msgid "Meta Description"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_group.php:19
+msgid "Meta Keywords"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_group.php:16
+msgid "Meta Title"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/seo_options.php:30
+msgid "Meta description"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/seo_options.php:19
+msgid "Meta keywords"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/seo_options.php:8
+msgid "Meta title"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:54
+msgid "Mode"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_styling/custom_html/skin_composer.php:59
+msgid "Modify"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "Monday"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:875
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:858
+msgid "Monthly Portfolio Archives: %s"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "New Category"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "New Client"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "New OnePage"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "New Portfolio"
+msgstr ""
+
+#. Text in function
+#: accio/index.php:4
+msgid "New Search"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "New Skill"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "New Type"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_styling/custom_html/skin_composer.php:44
+msgid "New skin name"
+msgstr ""
+
+#. Text in function
+#: accio/single.php:240
+#: accio/single.php:220
+#: accio/single-folio-default.php:48
+#: accio/single-folio-fullwidth.php:48
+#: accio/single-folio-alt.php:46
+msgid "Next"
+msgstr ""
+
+#. Text in echo
+#: accio/single.php:220
+msgid "Next post"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "No Categories found"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "No Categories found in Trash"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "No Clients found"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "No Clients found in Trash"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "No OnePages found"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "No OnePages found in Trash"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "No Portfolios found"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "No Skills found"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "No Skills found in Trash"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "No Typea found"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "No Types found in Trash"
+msgstr ""
+
+#. Text in function
+#: accio/classes/custom_sidebars.php:2
+msgid "No categories"
+msgstr ""
+
+#. Text in function
+#: accio/classes/custom_sidebars.php:2
+msgid "No pages"
+msgstr ""
+
+#. Text in function
+#: accio/content-nothingfound.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_group.php:71
+msgid "Notice: One SEO group can be used only once per category. In other case it would be used for category as it was picked at first time for category."
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "November"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/flickr_form.php:13
+msgid "Number of images"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/latest_tweets_form.php:13
+msgid "Number of tweets"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "October"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:453
+msgid "One moment"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "OnePage"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "OnePage Attributes"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/helper.php:191
+msgid "Option type does not exist!"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:141
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:174
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:244
+msgid "Options (comma separated)"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:38
+msgid "Page Background"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/onepage/credits_meta.php:27
+msgid "Page Menu"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:111
+msgid "Page Sidebar Position"
+msgstr ""
+
+#. Text in echo
+#: accio/helper/helper.php:721
+msgid "Page not Found"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_styling/custom_html/body_pattern_selected.php:53
+msgid "Pattern Background"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_styling/custom_html/body_pattern_selected.php:69
+msgid "Pattern Background Color"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/facebook_form.php:11
+msgid "People to show"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/contact_us_form.php:13
+msgid "Phone"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/post_pod_type_panel.php:72
+msgid "Place here a link for this post like http://site.com/"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:219
+msgid "Please enter correct"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:136
+msgid "Popup text"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Portfolio"
+msgstr ""
+
+#. Text in echo
+#: accio/helper/helper.php:862
+msgid "Portfolio Archives"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Portfolio attributes"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Portfolios"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/testimonials/credits_meta.php:9
+msgid "Position"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_projects_form.php:9
+msgid "Post Number"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_posts_form.php:8
+msgid "Posts Category"
+msgstr ""
+
+#. Text in echo
+#: accio/single.php:216
+#: accio/single-folio-default.php:44
+#: accio/single-folio-fullwidth.php:44
+#: accio/single-folio-alt.php:42
+msgid "Prev"
+msgstr ""
+
+#. Text in function
+#: accio/single.php:240
+msgid "Previous"
+msgstr ""
+
+#. Text in echo
+#: accio/single.php:216
+msgid "Previous post"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/portfolio/credits_meta.php:19
+msgid "Project URL"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/widgets/google_map_form.php:87
+msgid "ROADMAP"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:110
+msgid "RSS Tooltip"
+msgstr ""
+
+#. Text in echo
+#: accio/loop/loop-index.php:230
+#: accio/content-default.php:232
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:75
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:148
+msgid "Recipient\\'s e-mail field:"
+msgstr ""
+
+#. Text in echo
+#: accio/single-folio-default.php:175
+#: accio/single-folio-fullwidth.php:180
+#: accio/single-folio-alt.php:181
+msgid "Related Projects"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/portfolio/credits_meta.php:8
+msgid "Release Date"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:827
+msgid "Reply"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:141
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:174
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:244
+msgid "Required Field"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:101
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/theme_options.php:37
+#: accio/admin/theme_options/theme_options.php:168
+msgid "Reset All Options"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:117
+#: accio/admin/theme_options/sections/tab_general/custom_html/sidebar_position.php:9
+msgid "Right Sidebar"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/widgets/google_map_form.php:87
+msgid "SATELLITE"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_groups.php:19
+msgid "SEO Groups"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/seo_options.php:9
+msgid "SEO title of page. Title - 50-80 characters (usually - 75)"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "Saturday"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/theme_options.php:38
+#: accio/admin/theme_options/theme_options.php:169
+msgid "Save All Changes"
+msgstr ""
+
+#. Text in echo
+#: accio/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Search Categories"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Search Clients"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "Search OnePages"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Search Portfolios"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:798
+msgid "Search Results for: <i>%s</i>"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Search Skills"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "Search Types"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_posts.php:75
+#: accio/admin/views/widgets/recent_posts.php:77
+msgid "See all posts"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_projects.php:83
+msgid "See all projects"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:75
+msgid "Select Submit Button"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:148
+msgid "Select Submit Button\\'s color"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/testimonials_form.php:8
+msgid "Select Testimonial"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:148
+msgid "Select submit button"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:148
+msgid "Send letter"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Seo options"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "September"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:221
+msgid "Server failed. Send later"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:71
+msgid "Set options"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/post_pod_type_panel.php:32
+msgid "Set up a video for this post"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/post_pod_type_panel.php:51
+msgid "Set up an audio for this post"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_projects_form.php:45
+msgid "Show Exerpt"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:23
+msgid "Show Page Title"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:105
+msgid "Show RSS Link"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_projects_form.php:72
+msgid "Show button"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/recent_projects_form.php:34
+msgid "Show thumbnail"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Single page layout"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "Skill"
+msgstr ""
+
+#. Text in echo
+#: accio/single-folio-default.php:122
+#: accio/classes/portfolio.php:2
+#: accio/single-folio-fullwidth.php:127
+#: accio/single-folio-alt.php:133
+msgid "Skills"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:30
+msgid "Slider group"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/portfolio/gallery_meta.php:22
+msgid "Slider timeout (ms)"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:3
+msgid "Slider type"
+msgstr ""
+
+#. Text in function
+#: accio/index.php:4
+#: accio/content-nothingfound.php:9
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/form.php:75
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:148
+msgid "Submit button text"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "Sunday"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:455
+msgid "Sure?"
+msgstr ""
+
+#. Text in function
+#: accio/admin/views/widgets/google_map_form.php:87
+msgid "TERRAIN"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:829
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: accio/single-folio-default.php:130
+#: accio/single-folio-fullwidth.php:135
+#: accio/single-folio-alt.php:141
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:12
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "Theme Options"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "Thememakers Default Sidebar"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "Thememakers Footer Sidebar 1"
+msgstr ""
+
+#. Text in function
+#: accio/functions.php:511
+msgid "Thememakers Footer Sidebar 2"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "Thursday"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/latest_tweets_form.php:3
+#: accio/admin/views/widgets/recent_projects_form.php:4
+#: accio/admin/views/widgets/recent_posts_form.php:3
+#: accio/admin/views/widgets/testimonials_form.php:3
+#: accio/admin/views/widgets/contact_form_form.php:3
+#: accio/admin/views/gallery/render_gallery_item.php:40
+#: accio/admin/views/widgets/social_links_form.php:3
+#: accio/admin/views/widgets/flickr_form.php:3
+#: accio/admin/views/widgets/facebook_form.php:3
+#: accio/admin/views/widgets/contact_us_form.php:3
+#: accio/admin/views/widgets/google_map_form.php:4
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:800
+msgid "To search the site please enter a valid term"
+msgstr ""
+
+#. Text in echo
+#: accio/single-folio-default.php:137
+#: accio/admin/views/portfolio/credits_meta.php:41
+#: accio/single-folio-fullwidth.php:142
+#: accio/single-folio-alt.php:148
+msgid "Tools"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/portfolio/credits_meta.php:42
+msgid "Tools used to create this portfolio."
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "Tuesday"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/staff/credits_meta.php:10
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:17
+msgid "Twitter Link"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:22
+msgid "Twitter Tooltip"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "Type"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:84
+msgid "Type your website name here, it will appear instead of your Logo in text format."
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "Types"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/portfolio/credits_meta.php:30
+msgid "URL Title"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:343
+msgid "Uncategorized"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:66
+#: accio/helper/helper.php:673
+msgid "Upload"
+msgstr ""
+
+#. Text in function
+#: accio/admin/theme_options/sections/tab_general/custom_html/logo.php:84
+msgid "Upload your logo image here. Recommended dimensions: width <= 300px, height = any. Recommended image types: png, gif, jpg."
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/latest_tweets_form.php:8
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "View Category"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "View Client"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "View OnePage"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "View Portfolio"
+msgstr ""
+
+#. Text in echo
+#: accio/single-folio-default.php:149
+#: accio/single-folio-fullwidth.php:154
+#: accio/single-folio-alt.php:160
+msgid "View Project"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "View Skill"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/theme_options.php:32
+msgid "View Theme Docs"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "View Type"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:343
+msgid "View all posts in %s"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:77
+msgid "Vimeo Link"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:82
+msgid "Vimeo Tooltip"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/theme_options.php:33
+msgid "Visit Forum"
+msgstr ""
+
+#. Text in function
+#: accio/404.php:18
+msgid "We Can\\'t Find what You\\'re LOOKING For"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "Wednesday"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:9
+msgid "Width"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/page/background_options.php:116
+#: accio/admin/theme_options/sections/tab_general/custom_html/sidebar_position.php:8
+msgid "Without Sidebar"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:879
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:860
+msgid "Yearly Portfolio Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/contact_form_form.php:32
+msgid "You can create a contact form from Theme Options->Contact Forms"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:29
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_groups.php:33
+msgid "You have not created any group yet. Please create one using the form above."
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_custom_sidebars/custom_html/sidebars.php:33
+msgid "You have not created any sidebar group yet. Please create one using the form above."
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:95
+msgid "You still haven't created any slider group for your Cuteslider."
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:66
+msgid "You still haven't created any slider group for your Layerslider."
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:41
+msgid "You still haven't created any slider group."
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:220
+msgid "Your message has been sent successfully!"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:88
+msgid "Youtube Link"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/social_links_form.php:93
+msgid "Youtube Tooltip"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/widgets/google_map_form.php:69
+msgid "Zoom"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "apr"
+msgstr ""
+
+#. Text in echo
+#: accio/functions.php:825
+msgid "at"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "aug"
+msgstr ""
+
+#. Text in echo
+#: accio/loop/loop-category.php:23
+#: accio/loop/loop-index.php:84
+#: accio/loop/loop-index.php:191
+#: accio/loop/loop-taxonomy-skills.php:25
+#: accio/loop/loop-archive.php:25
+#: accio/single.php:148
+#: accio/loop/loop-taxonomy-clients.php:23
+#: accio/loop/loop-tag.php:23
+#: accio/loop/loop-search.php:27
+#: accio/content-default.php:86
+#: accio/content-default.php:193
+msgid "by"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "category"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "client"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "dec"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "feb"
+msgstr ""
+
+#. Text in function
+#: accio/extensions/sliders/views/meta_box.php:11
+msgid "fixed"
+msgstr ""
+
+#. Text in echo
+#: accio/loop/loop-category.php:20
+#: accio/loop/loop-index.php:79
+#: accio/loop/loop-index.php:186
+#: accio/loop/loop-taxonomy-skills.php:22
+#: accio/loop/loop-archive.php:22
+#: accio/single.php:143
+#: accio/loop/loop-taxonomy-clients.php:20
+#: accio/loop/loop-tag.php:20
+#: accio/loop/loop-search.php:24
+#: accio/content-default.php:81
+#: accio/content-default.php:188
+msgid "in"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "jan"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "jul"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "jun"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "mar"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "may"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/gallery/render_gallery_item.php:4
+msgid "media item"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "nov"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "oct"
+msgstr ""
+
+#. Text in function
+#: accio/classes/onepage.php:2
+msgid "op_type"
+msgstr ""
+
+#. Text in function
+#: accio/helper/helper.php:1
+msgid "sep"
+msgstr ""
+
+#. Text in function
+#: accio/classes/portfolio.php:2
+msgid "skill"
+msgstr ""
+
+#. Text in echo
+#: accio/extensions/sliders/views/meta_box.php:41
+msgid "to create one."
+msgstr ""
+
+#. Text in echo
+#: accio/admin/theme_options/sections/tab_contact_forms/custom_html/forms.php:9
+#: accio/admin/theme_options/sections/tab_seo/custom_html/seo_groups.php:10
+#: accio/admin/theme_options/sections/tab_custom_sidebars/custom_html/sidebars.php:10
+msgid "type title here"
+msgstr ""
+
+#. Text in echo
+#: accio/admin/views/onepage/credits_meta.php:20
+msgid "upload"
+msgstr ""
+
+#. Text in function
+#: accio/extensions/sliders/views/meta_box.php:11
+msgid "wide"
+msgstr ""

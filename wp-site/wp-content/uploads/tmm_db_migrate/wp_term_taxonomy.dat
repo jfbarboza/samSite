@@ -1,0 +1,254 @@
+array (
+  0 => 
+  array (
+    'term_taxonomy_id' => '1',
+    'term_id' => '1',
+    'taxonomy' => 'category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  1 => 
+  array (
+    'term_taxonomy_id' => '2',
+    'term_id' => '2',
+    'taxonomy' => 'nav_menu',
+    'description' => '',
+    'parent' => '0',
+    'count' => '15',
+  ),
+  2 => 
+  array (
+    'term_taxonomy_id' => '4',
+    'term_id' => '4',
+    'taxonomy' => 'position',
+    'description' => '',
+    'parent' => '0',
+    'count' => '4',
+  ),
+  3 => 
+  array (
+    'term_taxonomy_id' => '5',
+    'term_id' => '5',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  4 => 
+  array (
+    'term_taxonomy_id' => '6',
+    'term_id' => '6',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '10',
+  ),
+  5 => 
+  array (
+    'term_taxonomy_id' => '7',
+    'term_id' => '7',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '9',
+  ),
+  6 => 
+  array (
+    'term_taxonomy_id' => '8',
+    'term_id' => '8',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '9',
+  ),
+  7 => 
+  array (
+    'term_taxonomy_id' => '9',
+    'term_id' => '9',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '4',
+  ),
+  8 => 
+  array (
+    'term_taxonomy_id' => '10',
+    'term_id' => '5',
+    'taxonomy' => 'category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  9 => 
+  array (
+    'term_taxonomy_id' => '11',
+    'term_id' => '10',
+    'taxonomy' => 'category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '2',
+  ),
+  10 => 
+  array (
+    'term_taxonomy_id' => '12',
+    'term_id' => '10',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  11 => 
+  array (
+    'term_taxonomy_id' => '13',
+    'term_id' => '11',
+    'taxonomy' => 'category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '3',
+  ),
+  12 => 
+  array (
+    'term_taxonomy_id' => '14',
+    'term_id' => '11',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  13 => 
+  array (
+    'term_taxonomy_id' => '15',
+    'term_id' => '12',
+    'taxonomy' => 'clients',
+    'description' => '',
+    'parent' => '0',
+    'count' => '10',
+  ),
+  14 => 
+  array (
+    'term_taxonomy_id' => '16',
+    'term_id' => '13',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  15 => 
+  array (
+    'term_taxonomy_id' => '17',
+    'term_id' => '14',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+  16 => 
+  array (
+    'term_taxonomy_id' => '19',
+    'term_id' => '16',
+    'taxonomy' => 'folio_category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '4',
+  ),
+  17 => 
+  array (
+    'term_taxonomy_id' => '20',
+    'term_id' => '8',
+    'taxonomy' => 'folio_category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '4',
+  ),
+  18 => 
+  array (
+    'term_taxonomy_id' => '21',
+    'term_id' => '7',
+    'taxonomy' => 'folio_category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '4',
+  ),
+  19 => 
+  array (
+    'term_taxonomy_id' => '22',
+    'term_id' => '6',
+    'taxonomy' => 'folio_category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '2',
+  ),
+  20 => 
+  array (
+    'term_taxonomy_id' => '25',
+    'term_id' => '19',
+    'taxonomy' => 'skills',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  21 => 
+  array (
+    'term_taxonomy_id' => '26',
+    'term_id' => '20',
+    'taxonomy' => 'skills',
+    'description' => '',
+    'parent' => '0',
+    'count' => '2',
+  ),
+  22 => 
+  array (
+    'term_taxonomy_id' => '27',
+    'term_id' => '21',
+    'taxonomy' => 'category',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  23 => 
+  array (
+    'term_taxonomy_id' => '28',
+    'term_id' => '22',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  24 => 
+  array (
+    'term_taxonomy_id' => '29',
+    'term_id' => '23',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  25 => 
+  array (
+    'term_taxonomy_id' => '30',
+    'term_id' => '24',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  26 => 
+  array (
+    'term_taxonomy_id' => '31',
+    'term_id' => '25',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '1',
+  ),
+  27 => 
+  array (
+    'term_taxonomy_id' => '32',
+    'term_id' => '26',
+    'taxonomy' => 'post_tag',
+    'description' => '',
+    'parent' => '0',
+    'count' => '0',
+  ),
+)

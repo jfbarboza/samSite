@@ -1,0 +1,15 @@
+array (
+  0 => 
+  array (
+    'ID' => '1',
+    'user_login' => 'demo',
+    'user_pass' => '$P$BGWKKyzR1TN4QpSjLgv1iMhRogICZM1',
+    'user_nicename' => 'demo',
+    'user_email' => 'demo@demo.com',
+    'user_url' => '',
+    'user_registered' => '2013-12-19 11:46:52',
+    'user_activation_key' => '',
+    'user_status' => '0',
+    'display_name' => 'demo',
+  ),
+)
